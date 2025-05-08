@@ -26,8 +26,8 @@ Visual Elements
 Line chart: Monthly collision trends
 Heat map: ZIP codes with highest incidents
 Table: Top 10 locations by accident count
-Recommendations
 
+Recommendations
 Increase police presence or surveillance in hotspots
 Educate drivers on distracted driving and failure-to-yield risks
 Use insights to prioritize improvements for traffic signal timing or signage
