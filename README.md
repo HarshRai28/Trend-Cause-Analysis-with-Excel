@@ -1,5 +1,4 @@
 # Trend-Cause-Analysis-with-Excel
-https://docs.google.com/spreadsheets/d/1wzdtOrjXvGOb5cnfFVYsgKtdJdPpo9ac/edit?usp=sharing&ouid=116033078973255992266&rtpof=true&sd=true 
 About this project
 Overview
 
